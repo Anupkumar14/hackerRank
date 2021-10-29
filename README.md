@@ -1,2 +1,2 @@
 # hackerRank
-Day1 for my dsa programming
+DSA programming
